@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Custom Exclusions
+/_backup
+/metadata.json
